@@ -3,12 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: 简唯
+subtitle: 人若无名，便可专心练剑
 description:
-author: John Doe
-language:
-timezone:
+author: 姜显贵
+# language: zh-CN
+language: en
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

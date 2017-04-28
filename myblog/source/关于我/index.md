@@ -1,11 +1,13 @@
 ---
 title: 关于我
 date: 2017-04-16 17:39:50
-
+--- 
 ## 这里是我的介绍
 	
 	- 应届毕业生
+
 	[我的GitHub](https://github.com/jiangxiangui/)
+	
 	![这是一张图片]()
 	
 	- 对生活充满热情
